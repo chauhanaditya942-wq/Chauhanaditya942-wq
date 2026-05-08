@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Aditya Chauhan 
+# Hi, I'm Aditya Chauhan 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" />

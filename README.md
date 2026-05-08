@@ -54,8 +54,7 @@ I am currently looking for new opportunities. Feel free to reach out directly:
 <p align="left">
 <a href="mailto:chauhanaditya942@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+917827872625"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1NqC2OrXgwvm2W6ohygSWW8iXsd2EhGa_/view?usp=drive_link[Aditya_Chauhan_Resume..pdf](https://github.com/user-attachments/files/27506576/Aditya_Chauhan_Resume.pdf)
-"><img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+<a href="https://github.com/user-attachments/files/27506576/Aditya_Chauhan_Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 ---

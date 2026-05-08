@@ -40,10 +40,12 @@ I'm a Full Stack Developer who transforms ideas into high-performance web applic
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chauhanaditya942-wq&show_icons=true&theme=tokyonight&count_private=true" alt="Aditya's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanaditya942-wq&layout=compact&theme=tokyonight" alt="Aditya's Top Languages" />
+### 🛠️ Technical Stack & Activity
+<p align="left">
+<img src="https://img.shields.io/badge/Main_Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Framework-React/Next.js-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Backend-Node.js/Express-green?style=for-the-badge&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/Database-MongoDB/Supabase-darkgreen?style=for-the-badge&logo=mongodb" />
 </p>
 
 ---
